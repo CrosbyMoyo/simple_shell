@@ -21,6 +21,7 @@ void shell(vars_t *build)
 /**
  * checkAndGetLine - check stdin and retrieves next line; handles
  * prompt display
+ *exit
  * @build: input build
  */
 void checkAndGetLine(vars_t *build)
@@ -124,6 +125,7 @@ void forkAndExecute(vars_t *build)
 /**
  * convertLLtoArr - convert linked list to array
  * @build: input build] and prid an error
+
  */
 void convertLLtoArr(vars_t *build)
 {
