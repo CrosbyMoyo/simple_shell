@@ -1,7 +1,8 @@
 #include "shell.h"
 
 /**
- * _getenv - retrieves env variable that matches input string/ check inviroment path
+ * _getenv - retrieves env variable that matches
+ * input string/ check inviroment path
  * @input: input string
  * @evn: local environmental variables
  * Return: string of env variable
@@ -23,4 +24,3 @@ char *_getenv(char *input, char **evn)
 	}
 	return (NULL);
 }
-
