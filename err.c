@@ -3,6 +3,7 @@
 /**
  * errorHandler - prints error message for shell
  * @build: the build vars
+ * Return: nothing
  */
 void errorHandler(vars_t *build)
 {
@@ -111,4 +112,3 @@ char *itoa(unsigned int num)
 	}
 	return (str);
 }
-
