@@ -1,7 +1,7 @@
 # SIMPLE SHELL
 
      Date:16-05-2022
-     ALX- school
+     ALX - school
 
 # Description
 
@@ -40,7 +40,7 @@ simple_shell is designed to run in the Ubuntu linux environment and to be compil
           $ ^D
           $
 
-     3.run the program by executing the follwing command
+     3.run the program by executing the following command
           $ ./hsh
           $ ls
 
