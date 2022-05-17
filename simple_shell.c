@@ -21,7 +21,7 @@ int main(int ac, char **av)
 /**
  * vars_tInit - initialize member values for vars_t struct
  * @build: input build
- * Return: build with initialized members
+ * Return: build with  members
  */
 vars_t *vars_tInit(vars_t *build)
 {

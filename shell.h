@@ -26,7 +26,7 @@ extern char **environ;
 /**
  * struct linlist - linked list data structure
  * @str: environ variable path name
- * @nxt: pointer to nxt node
+
  */
 typedef struct linlist
 {
@@ -62,7 +62,7 @@ typedef struct variables
 /**
  * struct inborns - cmds and functions associated with it
  * @cmd: input cmd
- * @func: output function
+ 
  */
 typedef struct inborns
 {

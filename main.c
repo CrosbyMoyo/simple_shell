@@ -123,7 +123,7 @@ void forkAndExecute(vars_t *build)
 
 /**
  * convertLLtoArr - convert linked list to array
- * @build: input build
+ * @build: input build] and prid an error
  */
 void convertLLtoArr(vars_t *build)
 {
