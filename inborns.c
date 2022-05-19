@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * findinborns - validates if command is builtin and executes
+ * findinborns - validates if a command is builtin and executes
  * @build: input build
  * Return: true or 1 if found, false or 0 if not
  */
