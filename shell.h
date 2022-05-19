@@ -26,7 +26,7 @@ extern char **environ;
 /**
  * struct linlist - linked list data structure
  * @str: environ variable path name
-
+ * @nxt: next node
  */
 typedef struct linlist
 {
