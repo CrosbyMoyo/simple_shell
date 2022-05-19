@@ -62,7 +62,7 @@ typedef struct variables
 /**
  * struct inborns - cmds and functions associated with it
  * @cmd: input cmd
- 
+ *
  */
 typedef struct inborns
 {
